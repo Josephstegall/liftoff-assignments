@@ -28,6 +28,8 @@ Spring
 
 Bootstrap
 
+Javascript
+
 MySQL
 
 
